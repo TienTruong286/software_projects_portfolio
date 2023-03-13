@@ -2,9 +2,9 @@ title;description;url;image;demo
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/TienTruong286/my-todo-app;1.png;https://tientruong286-my-todo-app-web-s35pyu.streamlit.app/?fbclid=IwAR2de-P_2A5VuDUzvJc8GUTIJ6ANJ2crQvPyXTM7oP4D6Cd0PkoYUHb3sQ0
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/TienTruong286/PDFTemplates;3.png;https://github.com/TienTruong286/PDFTemplates/blob/main/output.pdf
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/TienTruong286/PDFInvoices/blob/main/main.py;4.png;https://github.com/TienTruong286/PDFInvoices/blob/main/10001-2023.1.18.pdf
+Today's News Email; A script that gets data from a news API and send them to email.;https://github.com/TienTruong286/Today-sNewsEmail;5.png;https://github.com/TienTruong286/Today-sNewsEmail/blob/main/output.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/TienTruong286/weather-API;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
@@ -14,7 +14,7 @@ Typing Analyzer;A program that monitors the computer keyboard and returns the mo
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
 Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/TienTruong286/Weather-Visualization;16.png;https://tientruong286-weather-visualization-main-uqqd57.streamlit.app/
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
